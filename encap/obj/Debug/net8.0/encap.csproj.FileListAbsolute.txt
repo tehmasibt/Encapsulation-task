@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\bin\Debug\net8.0\encap.exe
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\bin\Debug\net8.0\encap.deps.json
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\bin\Debug\net8.0\encap.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\bin\Debug\net8.0\encap.dll
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\bin\Debug\net8.0\encap.pdb
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\obj\Debug\net8.0\encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\obj\Debug\net8.0\encap.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\obj\Debug\net8.0\encap.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\obj\Debug\net8.0\encap.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\obj\Debug\net8.0\encap.dll
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\obj\Debug\net8.0\refint\encap.dll
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\obj\Debug\net8.0\encap.pdb
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\obj\Debug\net8.0\encap.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\Encapsulation\encap\encap\obj\Debug\net8.0\ref\encap.dll
